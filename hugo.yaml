@@ -1,0 +1,23 @@
+baseURL: 'https://yshvrdhn.github.io/'
+languageCode: 'en-us'
+title: 'Yashovardhan Chaturvedi'
+theme: ''
+
+# Configure permalinks
+permalinks:
+  posts: '/blog/:year/:month/:day/:title/'
+
+# Configure image cache for GitHub Pages
+caches:
+  images:
+    dir: ':cacheDir/images'
+
+# Markdown settings
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+# Build settings
+buildDrafts: false
+buildFuture: false
