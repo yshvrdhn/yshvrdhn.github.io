@@ -1,1 +1,7 @@
+# Jekyll
 _site/
+
+# Hugo
+public/
+resources/
+.hugo_build.lock
