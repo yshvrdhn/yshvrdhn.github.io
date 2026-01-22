@@ -4,7 +4,11 @@ title: "Talks & Presentations"
 
 ## Conference Talks
 
-[Add your conference talks here]
+### Navigating bottlenecks: infrastructure lessons from AV ML systems
+**Date:** August 27, 2025 | 14:00 – 14:25
+**Location:** Room 2
+
+A discussion on infrastructure challenges and solutions in building scalable machine learning systems for autonomous vehicles, focusing on training and deployment frameworks for perception and planning models.
 
 ## Meetup Presentations
 
